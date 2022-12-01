@@ -1,0 +1,130 @@
+
+@import url('http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext');
+
+#hero {
+    padding-top: 28px;
+}
+
+#navbar {
+    width: 1152px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#herologo {
+    display: flex;
+    align-items: center;
+}
+
+#menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu_bar {
+    list-style: none;
+    display: flex;
+}
+
+.menu_link {
+    color: white;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+    padding: 9px 24px;
+}
+
+.menu_link:hover {
+    color: #FF7235;
+}
+
+.sign_up_button {
+    padding: 9px 36px;
+    border: 1px solid white;
+    border-radius: 8px;
+    color: white;
+    text-decoration: none;
+    margin-left: 160px;
+    height: 20px;
+    display: block;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 95%;
+}
+
+#herobg{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+
+#heroparra1{
+    position: absolute;
+    width: 578px;
+    height: 86px;
+    left: 431px;
+    top: 257px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 86px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+#heroparra2{
+    position: absolute;
+    width: 540px;
+    height: 124px;
+    left: 450px;
+    top: 382px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    
+    /* or 36px */
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.sign_up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    position: absolute;
+    width: 160px;
+    height: 45px;
+    left: 640px;
+    top: 600px;
+    background: #FFFFFF;
+    border-radius: 6px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 39px;
+    color: #ED4C5C;
+}
+
+#heroleng{
+    position: absolute;
+    top: 45px;
+    left: 1090px;
+}
