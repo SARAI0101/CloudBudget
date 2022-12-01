@@ -79,7 +79,6 @@
     align-items: center;
     letter-spacing: 0.05em;
     text-transform: uppercase;
-    
     color: #FFFFFF;
 }
 
@@ -95,10 +94,7 @@
     font-weight: 600;
     font-size: 24px;
     line-height: 150%;
-    
-    /* or 36px */
     text-align: center;
-    
     color: #FFFFFF;
 }
 
@@ -125,6 +121,20 @@
 
 #heroleng{
     position: absolute;
-    top: 45px;
-    left: 1090px;
+    top: 50px;
+    left: 1058px;
+}
+
+#heroleng2{
+    background: white;
+    border-color: black;
+    border-radius: 6px;
+
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 39px;
+    display: flex;
+    color: #ED4C5C;
 }
