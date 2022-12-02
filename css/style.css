@@ -138,3 +138,74 @@
     display: flex;
     color: #ED4C5C;
 }
+
+/*parte 2 by: cezane*/
+
+#text1{
+    position: absolute;
+    width: 762px;
+    height: 107px;
+    left: 165px;
+    top: 922px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 57px;
+    color: #000000;
+}
+
+#text2{
+    position: absolute;
+    width: 445px;
+    height: 115px;
+    left: 165px;
+    top: 1100px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+
+    text-align: justify;
+    color: #000000;
+}
+
+#imagen1{
+    position: absolute;
+    width: 445px;
+    height: 311px;
+    left: 835px;
+    top: 940px;
+    
+    background: url(.jpg), #C4C4C4;
+    border-radius: 15px;
+}
+
+#ellipse{
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 805px;
+    top: 1060px;
+    
+    background: #ED4C5C;
+    border-radius: 42px;
+}
+
+#buttom1{
+    position: absolute;
+    width: 152px;
+    height: 24px;
+    left: 160px;
+    top: 1225px;
+}
+
+.bottom_1{
+    color: #FF7235;
+    font-size: 18px;
+    font-family: 'Lato';
+    text-decoration: none;
+}
