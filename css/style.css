@@ -407,3 +407,90 @@
     color: #ED4C5C;
     text-decoration: none;
 }
+
+/*parte 2 by: Sarai*/
+
+#tec1{
+    position: absolute;
+    width: 1110px;
+    height: 55px;
+    left: 220px;
+    top: 2000px;
+    font-family: 'Lato';
+    font-weight: 600;
+    font-size: 36px;
+    text-align: center; 
+    color: #000000;
+}
+
+#tec2{
+    position: absolute;
+    width: 293px;
+    height: 198px;
+    left: 150px;
+    top: 2150px;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+}
+
+#tec3{
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 15px;
+    color: #101010;
+}
+
+#tec4{
+    position: absolute;
+    width: 293px;
+    height: 198px;
+    left: 480px;
+    top: 2165px;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+}
+
+#tec5{
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 15px;
+    color: #101010;
+}
+
+#tec6{
+    position: absolute;
+    width: 293px;
+    height: 198px;
+    left: 800px;
+    top: 2165px;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+}
+
+#tec7{
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 15px;
+    color: #101010;
+}
+
+#tec8{
+    position: absolute;
+    width: 293px;
+    height: 198px;
+    left: 1120px;
+    top: 2165px;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+}
+
+#tec9{
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 15px;
+    color: #101010;
+}
