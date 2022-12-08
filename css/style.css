@@ -408,7 +408,7 @@
     text-decoration: none;
 }
 
-/*parte 2 by: Sarai*/
+/*parte 4 by: estrella*/
 
 #tec1{
     position: absolute;
@@ -493,4 +493,62 @@
     font-weight: 700;
     font-size: 15px;
     color: #101010;
+}
+
+/*parte 5 by: cezane*/
+
+#money1{
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 2442px;    
+}
+
+#money2{
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    left: 165px;
+    top: 2520px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+}
+
+#money3{
+    position: absolute;
+    width: 445px;
+    height: 64px;
+    left: 165px;
+    top: 2690px;
+    
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 140%;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+#money4{
+    position: absolute;
+    width: 533px;
+    height: 311px;
+    left: 691px;
+    top: 2536px;
+}
+
+#money5{
+    position: absolute;
+    width: 134px;
+    height: 32px;
+    left: 163px;
+    top: 2799px;
 }
