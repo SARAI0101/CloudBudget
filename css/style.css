@@ -122,7 +122,7 @@
 #heroleng{
     position: absolute;
     top: 50px;
-    left: 1058px;
+    left: 980px;
 }
 
 #heroleng2{
@@ -551,4 +551,238 @@
     height: 32px;
     left: 163px;
     top: 2799px;
+}
+
+/*parte 6 by: Robert*/
+
+#cont{
+    position: absolute;
+    width: 445px;
+    height: 500px;
+    left: 176px;
+    top: 3100px;
+    color: #000000;
+}
+
+#cont h1{
+    position: absolute;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+}
+
+#cont p{
+    position: absolute;
+    width: 434px;
+    top: 120px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.content-sub{
+    position: absolute;
+    left: 700px;
+    top: 3100px;
+}
+
+.content-sub form .campo{
+    width: 255px;
+    height: 60px;
+    border:1px solid #333333;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 31px;
+}
+
+.content-sub form .campo2{
+    position: absolute;
+    left: 330px;
+    width: 255px;
+    height: 60px;
+    border:1px solid #333333;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 31px;
+}
+
+.content-sub form .campo3{
+    position: absolute;
+    left: 0px;
+    width: 540px;
+    height: 60px;
+    top: 100px;
+    border:1px solid #333333;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 31px;
+}
+.content-sub form .campo4{
+    position: absolute;
+    left: 0px;
+    width: 540px;
+    height: 60px;
+    top: 200px;
+    border:1px solid #333333;
+    border-radius: 6px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 31px;
+}
+
+.content-sub form .boton{
+    position: absolute;
+    background: #ED4C5C;
+    color: #FFFFFF;
+    left: 0px;
+    width: 160px;
+    height: 50px;
+    top: 300px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+    border: 1.5px solid #ED4C5C;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/*parte 7 by: Sarai*/
+
+#final{
+    position: absolute;
+    top: 150px;
+}
+
+#datos h1{
+    position: absolute;
+    width: 65px;
+    height: 22px;
+    left: 166px;
+    top: 3500px;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+#datos p{
+    position: absolute;
+    width: 254px;
+    height: 54px;
+    left: 166px;
+    top: 3550px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #101010;
+}
+
+.menu{
+    position: absolute;
+    left: 500px;
+    top: 3475px;
+    list-style: none;
+}
+
+.service1{
+    font-family: 'lato';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+.menufinal{
+    width: 254px;
+    font-family: 'lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.menufinal:hover{
+    color: #696966;
+}
+
+#datos2 h1{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 734px;
+    top: 3498px;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+#datos2 p{
+    position: absolute;
+    width: 254px;
+    height: 100px;
+    left: 734px;
+    top: 3550px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #101010;
+}
+
+#datos2 .image{
+    position: absolute;
+    left: 734px;
+    top: 3610px;
+}
+
+#datos2 .image2{
+    position: absolute;
+    left: 760px;
+    top: 3610px;
+}
+
+#datos2 .image3{
+    position: absolute;
+    left: 785px;
+    top: 3610px;
+}
+
+#datos3 h1{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 1000px;
+    top: 3498px;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+#datos3 img{
+    position: absolute;
+    left: 1000px;
+    top: 3550px;
+}
+
+#cloud p{
+    position: absolute;
+    left:166px;
+    top: 3780px;
 }
