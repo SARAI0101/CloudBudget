@@ -58,6 +58,7 @@
 
 #herobg{
     position: absolute;
+    width: 1350px;
     left: 0px;
     top: 0px;
     z-index: -1;
@@ -210,13 +211,13 @@
     text-decoration: none;
 }
 
-/*parte 2 by: Sarai*/
+/*parte 3 by: Sarai*/
 
 #title1{
     position: absolute;
     width: 1110px;
     height: 55px;
-    left: 220px;
+    left: 170px;
     top: 1345px;
     font-family: 'Lato';
     font-weight: 600;
@@ -229,7 +230,7 @@
     position: absolute;
     width: 293px; 
     height: 198px;
-    left: 200px;
+    left: 150px;
     top: 1500px;
 }
 
@@ -290,7 +291,7 @@
     position: absolute;
     width: 293px; 
     height: 198px;
-    left: 600px;
+    left: 550px;
     top: 1500px;
 }
 
@@ -351,7 +352,7 @@
     position: absolute;
     width: 293px; 
     height: 198px;
-    left: 1000px;
+    left: 950px;
     top: 1500px;
 }
 
@@ -414,7 +415,7 @@
     position: absolute;
     width: 1110px;
     height: 55px;
-    left: 220px;
+    left: 120px;
     top: 2000px;
     font-family: 'Lato';
     font-weight: 600;
@@ -427,7 +428,7 @@
     position: absolute;
     width: 293px;
     height: 198px;
-    left: 150px;
+    left: 50px;
     top: 2150px;
     text-align: center;
     background-color: #FFFFFF;
@@ -445,7 +446,7 @@
     position: absolute;
     width: 293px;
     height: 198px;
-    left: 480px;
+    left: 370px;
     top: 2165px;
     text-align: center;
     background-color: #FFFFFF;
@@ -463,7 +464,7 @@
     position: absolute;
     width: 293px;
     height: 198px;
-    left: 800px;
+    left: 690px;
     top: 2165px;
     text-align: center;
     background-color: #FFFFFF;
@@ -481,7 +482,7 @@
     position: absolute;
     width: 293px;
     height: 198px;
-    left: 1120px;
+    left: 1050px;
     top: 2165px;
     text-align: center;
     background-color: #FFFFFF;
@@ -502,7 +503,7 @@
     width: 1440px;
     height: 500px;
     left: 0px;
-    top: 2442px;    
+    top: 2442px;   
 }
 
 #money2{
@@ -654,7 +655,7 @@
     border: 1.5px solid #ED4C5C;
     border-radius: 6px;
     cursor: pointer;
-}
+    }
 
 /*parte 7 by: Sarai*/
 
@@ -786,3 +787,4 @@
     left:166px;
     top: 3780px;
 }
+
