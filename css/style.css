@@ -123,7 +123,7 @@
 #heroleng{
     position: absolute;
     top: 50px;
-    left: 1058px;
+    left: 980px;
 }
 
 #heroleng2{
@@ -655,4 +655,136 @@
     border: 1.5px solid #ED4C5C;
     border-radius: 6px;
     cursor: pointer;
+    }
+
+/*parte 7 by: Sarai*/
+
+#final{
+    position: absolute;
+    top: 150px;
 }
+
+#datos h1{
+    position: absolute;
+    width: 65px;
+    height: 22px;
+    left: 166px;
+    top: 3500px;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+#datos p{
+    position: absolute;
+    width: 254px;
+    height: 54px;
+    left: 166px;
+    top: 3550px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #101010;
+}
+
+.menu{
+    position: absolute;
+    left: 500px;
+    top: 3475px;
+    list-style: none;
+}
+
+.service1{
+    font-family: 'lato';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+.menufinal{
+    width: 254px;
+    font-family: 'lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.menufinal:hover{
+    color: #696966;
+}
+
+#datos2 h1{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 734px;
+    top: 3498px;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+#datos2 p{
+    position: absolute;
+    width: 254px;
+    height: 100px;
+    left: 734px;
+    top: 3550px;
+    font-family: 'Lato';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #101010;
+}
+
+#datos2 .image{
+    position: absolute;
+    left: 734px;
+    top: 3610px;
+}
+
+#datos2 .image2{
+    position: absolute;
+    left: 760px;
+    top: 3610px;
+}
+
+#datos2 .image3{
+    position: absolute;
+    left: 785px;
+    top: 3610px;
+}
+
+#datos3 h1{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 1000px;
+    top: 3498px;
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #101010;
+}
+
+#datos3 img{
+    position: absolute;
+    left: 1000px;
+    top: 3550px;
+}
+
+#cloud p{
+    position: absolute;
+    left:166px;
+    top: 3780px;
+}
+
