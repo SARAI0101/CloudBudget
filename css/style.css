@@ -111,18 +111,10 @@ body{
     background-color: #fff;
     transition: width .4s ease-in-out;
 }
-<<<<<<< Updated upstream
 
-#herobg{
-    position: absolute;
-    width: 1350px;
-    left: 0px;
-    top: 0px;
-    z-index: -1;
-=======
 .item:hover:after, .item:focus:after{
     width: 100%;
->>>>>>> Stashed changes
+
 }
 .header__nav-login-link{
     display: flex;
@@ -235,30 +227,7 @@ body{
     content: '';
     top: -8px;
 }
-<<<<<<< Updated upstream
 
-/*parte 3 by: Sarai*/
-
-#title1{
-    position: absolute;
-    width: 1110px;
-    height: 55px;
-    left: 170px;
-    top: 1345px;
-    font-family: 'Lato';
-    font-weight: 600;
-    font-size: 36px;
-    text-align: center; 
-    color: #000000;
-}
-
-.cuadro1{
-    position: absolute;
-    width: 293px; 
-    height: 198px;
-    left: 150px;
-    top: 1500px;
-=======
 .menu__btn > span::after {
     content: '';
     top: 8px;
@@ -286,7 +255,7 @@ body{
     font-weight: 600;  
     text-transform: uppercase;
     cursor: pointer;
->>>>>>> Stashed changes
+
 }
 .login-link{
     display: none;
@@ -305,19 +274,11 @@ body{
     top: 0;
     transform: rotate(90deg);
 }
-<<<<<<< Updated upstream
 
-.cuadro2{
-    position: absolute;
-    width: 293px; 
-    height: 198px;
-    left: 550px;
-    top: 1500px;
-=======
 #menu__toggle:checked ~ .menu__box {
     visibility: visible;
     right: 0;
->>>>>>> Stashed changes
+
 }
 .menu__btn > span,
 .menu__btn > span::before,
@@ -339,21 +300,13 @@ body{
     justify-content: space-between;
     padding: 35px;
 }
-<<<<<<< Updated upstream
 
-.cuadro3{
-    position: absolute;
-    width: 293px; 
-    height: 198px;
-    left: 950px;
-    top: 1500px;
-=======
 .description__content-items{
     color: #000;
     font-style: normal;
     width: 450px;
     margin-right: 120px;
->>>>>>> Stashed changes
+
 }
 .description__title{
     font-weight: 600;
@@ -447,30 +400,7 @@ body{
     display: block;
     align-items: center;
 }
-<<<<<<< Updated upstream
 
-/*parte 4 by: estrella*/
-
-#tec1{
-    position: absolute;
-    width: 1110px;
-    height: 55px;
-    left: 120px;
-    top: 2000px;
-    font-family: 'Lato';
-    font-weight: 600;
-    font-size: 36px;
-    text-align: center; 
-    color: #000000;
-}
-
-#tec2{
-    position: absolute;
-    width: 293px;
-    height: 198px;
-    left: 50px;
-    top: 2150px;
-=======
 .features-link:hover{
     color: #9b2632;
 }
@@ -481,7 +411,6 @@ body{
 }
 .technology__title{
     padding-bottom: 55px;
->>>>>>> Stashed changes
     text-align: center;
 }
 .technology__item{
@@ -489,40 +418,19 @@ body{
     position: relative;
     width: 255px;
 }
-<<<<<<< Updated upstream
 
-#tec4{
-    position: absolute;
-    width: 293px;
-    height: 198px;
-    left: 370px;
-    top: 2165px;
-=======
 .technology__box{
     position: relative;
->>>>>>> Stashed changes
-    text-align: center;
-    
+    text-align: center; 
 }
+
 .technology__box-image{
     margin-top: 35px;
 }
-<<<<<<< Updated upstream
 
-#tec6{
-    position: absolute;
-    width: 293px;
-    height: 198px;
-    left: 690px;
-    top: 2165px;
-    text-align: center;
-    background-color: #FFFFFF;
-    border-radius: 8px;
-=======
 .first-item2{
     background-image: url(../img/01.svg);
     background-repeat: no-repeat;
->>>>>>> Stashed changes
 }
 .second-item2{
     background-image: url(../img/02.svg);
@@ -544,21 +452,12 @@ body{
     text-align: center;
     color: #101010;
 }
-<<<<<<< Updated upstream
 
-#tec8{
-    position: absolute;
-    width: 293px;
-    height: 198px;
-    left: 1050px;
-    top: 2165px;
-=======
 .technology__box-text{
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 14px;
->>>>>>> Stashed changes
     text-align: center;
     color: #000000;
 }
@@ -568,23 +467,12 @@ body{
     color: #FFF;
     padding-top: 90px;
 }
-<<<<<<< Updated upstream
 
-/*parte 5 by: cezane*/
-
-#money1{
-    position: absolute;
-    width: 1440px;
-    height: 500px;
-    left: 0px;
-    top: 2442px;   
-=======
 .section__content{
     display: flex;
     justify-content: space-between;
     padding: 35px;
     padding-bottom: 95px;
->>>>>>> Stashed changes
 }
 .section__content-items{
     font-style: normal;
@@ -745,21 +633,11 @@ body{
     text-transform: uppercase;
     color: #FFFFFF;
     cursor: pointer;
-<<<<<<< Updated upstream
-    }
-
-/*parte 7 by: Sarai*/
-
-#final{
-    position: absolute;
-    top: 150px;
-=======
 }
 .form__button:hover{
     background-color: #9b2632;
     border: none;
     outline: none;
->>>>>>> Stashed changes
 }
 .form__button:active, 
 .form__button:focus{
@@ -817,20 +695,6 @@ body{
     color: #101010;
 }
 
-<<<<<<< Updated upstream
-#datos3 img{
-    position: absolute;
-    left: 1000px;
-    top: 3550px;
-}
-
-#cloud p{
-    position: absolute;
-    left:166px;
-    top: 3780px;
-}
-
-=======
 @media (max-width:1250px){
     .form__input{
         max-width: 540px; 
@@ -1084,4 +948,3 @@ body{
         font-size: 35px;
     }
 }
->>>>>>> Stashed changes
